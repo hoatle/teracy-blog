@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: TDD | Teracy's Blog]]></title>
-  <link href="http://blog.teracy.com/tags/tdd/atom.xml" rel="self"/>
-  <link href="http://blog.teracy.com/"/>
-  <updated>2013-08-29T19:14:47+00:00</updated>
-  <id>http://blog.teracy.com/</id>
+  <link href="http://hoatle.github.io/tags/tdd/atom.xml" rel="self"/>
+  <link href="http://hoatle.github.io/"/>
+  <updated>2013-08-29T20:51:36+00:00</updated>
+  <id>http://hoatle.github.io/</id>
   <author>
     <name><![CDATA[Teracy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A separated Django application with unit tests, coding convention checking and coverage report]]></title>
-    <link href="http://blog.teracy.com/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report/"/>
+    <link href="http://hoatle.github.io/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report/"/>
     <updated>2013-08-06T10:48:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report</id>
+    <id>http://hoatle.github.io/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report</id>
     <content type="html"><![CDATA[<p>Today we&rsquo;re going to share with you how to create a separated Django application with the following
 requirements:</p>
 

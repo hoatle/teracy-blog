@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: semver | Teracy's Blog]]></title>
-  <link href="http://blog.teracy.com/tags/semver/atom.xml" rel="self"/>
-  <link href="http://blog.teracy.com/"/>
-  <updated>2013-08-29T19:14:47+00:00</updated>
-  <id>http://blog.teracy.com/</id>
+  <link href="http://hoatle.github.io/tags/semver/atom.xml" rel="self"/>
+  <link href="http://hoatle.github.io/"/>
+  <updated>2013-08-29T20:51:36+00:00</updated>
+  <id>http://hoatle.github.io/</id>
   <author>
     <name><![CDATA[Teracy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Manage software dependency with semantic versioning]]></title>
-    <link href="http://blog.teracy.com/2013/08/12/manage-software-dependency-with-semantic-versioning/"/>
+    <link href="http://hoatle.github.io/2013/08/12/manage-software-dependency-with-semantic-versioning/"/>
     <updated>2013-08-12T19:42:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/12/manage-software-dependency-with-semantic-versioning</id>
+    <id>http://hoatle.github.io/2013/08/12/manage-software-dependency-with-semantic-versioning</id>
     <content type="html"><![CDATA[<p>Do you know what it means to release your software labeled with <code>alpha</code>, <code>beta</code>, <code>release candidate</code>
 or <code>final release</code>? When and where to increase the number range? What&rsquo;s the difference between
 0.1.0, 1.0.0, 1.2.0 and 2.0.0? We&rsquo;re going to make it clear on this post.</p>

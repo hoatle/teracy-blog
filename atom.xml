@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Teracy's Blog]]></title>
-  <link href="http://blog.teracy.com/atom.xml" rel="self"/>
-  <link href="http://blog.teracy.com/"/>
-  <updated>2013-08-29T19:14:47+00:00</updated>
-  <id>http://blog.teracy.com/</id>
+  <link href="http://hoatle.github.io/atom.xml" rel="self"/>
+  <link href="http://hoatle.github.io/"/>
+  <updated>2013-08-29T20:51:36+00:00</updated>
+  <id>http://hoatle.github.io/</id>
   <author>
     <name><![CDATA[Teracy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[teracy-django-html5-boilerplate v0.1.0 release]]></title>
-    <link href="http://blog.teracy.com/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release/"/>
+    <link href="http://hoatle.github.io/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release/"/>
     <updated>2013-08-20T15:44:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release</id>
+    <id>http://hoatle.github.io/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release</id>
     <content type="html"><![CDATA[<p>After more than 3 months since the project was started, today we&rsquo;re very happy to announce
 <a href="https://github.com/teracy-official/django-html5-boilerplate">teracy-django-html5-boilerplate</a> v0.1.0 release.</p>
 
@@ -64,9 +64,9 @@ make pull requests!</p>
   
   <entry>
     <title type="html"><![CDATA[sphinx-deployment v0.1.0 release]]></title>
-    <link href="http://blog.teracy.com/2013/08/18/sphinx-deployment-v0-1-0-release/"/>
+    <link href="http://hoatle.github.io/2013/08/18/sphinx-deployment-v0-1-0-release/"/>
     <updated>2013-08-18T17:53:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/18/sphinx-deployment-v0-1-0-release</id>
+    <id>http://hoatle.github.io/2013/08/18/sphinx-deployment-v0-1-0-release</id>
     <content type="html"><![CDATA[<p>10 days after the announcement of <code>sphinx-deployment</code><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> project, today we&rsquo;re very happy to
 announce v0.1.0 release.</p>
 
@@ -99,9 +99,9 @@ it now at <a href="https://github.com/teracy-official/sphinx-deployment">https:/
   
   <entry>
     <title type="html"><![CDATA[Introduce development management tools]]></title>
-    <link href="http://blog.teracy.com/2013/08/17/introduce-development-management-tools/"/>
+    <link href="http://hoatle.github.io/2013/08/17/introduce-development-management-tools/"/>
     <updated>2013-08-17T04:21:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/17/introduce-development-management-tools</id>
+    <id>http://hoatle.github.io/2013/08/17/introduce-development-management-tools</id>
     <content type="html"><![CDATA[<p>At Teracy, development tools and development management are very important for us to keep and work
 in a consistent workflow manner. There are rules, however, the rules should be guided, checked
 and forced so that everyone could understand and work together more effectively. After a few days of
@@ -178,9 +178,9 @@ steps ahead to setup a good development environment.</p>
   
   <entry>
     <title type="html"><![CDATA[Manage software dependency with semantic versioning]]></title>
-    <link href="http://blog.teracy.com/2013/08/12/manage-software-dependency-with-semantic-versioning/"/>
+    <link href="http://hoatle.github.io/2013/08/12/manage-software-dependency-with-semantic-versioning/"/>
     <updated>2013-08-12T19:42:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/12/manage-software-dependency-with-semantic-versioning</id>
+    <id>http://hoatle.github.io/2013/08/12/manage-software-dependency-with-semantic-versioning</id>
     <content type="html"><![CDATA[<p>Do you know what it means to release your software labeled with <code>alpha</code>, <code>beta</code>, <code>release candidate</code>
 or <code>final release</code>? When and where to increase the number range? What&rsquo;s the difference between
 0.1.0, 1.0.0, 1.2.0 and 2.0.0? We&rsquo;re going to make it clear on this post.</p>
@@ -281,9 +281,9 @@ semantic versioning schema like <a href="http://dev.teracy.org/docs/develop/sema
   
   <entry>
     <title type="html"><![CDATA[Automatic sphinx docs deployment with sphinx-deployment]]></title>
-    <link href="http://blog.teracy.com/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment/"/>
+    <link href="http://hoatle.github.io/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment/"/>
     <updated>2013-08-09T03:13:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment</id>
+    <id>http://hoatle.github.io/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment</id>
     <content type="html"><![CDATA[<p>At Teracy, all our documentations are written the the help from <code>sphinx</code><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. It&rsquo;s easy to setup and
 manage. However, we could not find a <strong>deployment solution</strong> good enough for <code>sphinx</code> documentation
 project. What does &ldquo;good enough&rdquo; here means? It means:</p>
@@ -342,9 +342,9 @@ are all welcome. Please head to the development branch at <a href="https://githu
   
   <entry>
     <title type="html"><![CDATA[Multiple Github custom domains]]></title>
-    <link href="http://blog.teracy.com/2013/08/08/multiple-github-custom-domains/"/>
+    <link href="http://hoatle.github.io/2013/08/08/multiple-github-custom-domains/"/>
     <updated>2013-08-08T00:00:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/08/multiple-github-custom-domains</id>
+    <id>http://hoatle.github.io/2013/08/08/multiple-github-custom-domains</id>
     <content type="html"><![CDATA[<p>Today we&rsquo;re going to share with you the way to use multiple github custom domains as we did with our
 <code>teracy-official</code> organization account.</p>
 
@@ -514,9 +514,9 @@ other HTTP(S) resources for our projects.</p>
   
   <entry>
     <title type="html"><![CDATA[Keep, share and manage top secret resources with git-encrypt and gitolite]]></title>
-    <link href="http://blog.teracy.com/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite/"/>
+    <link href="http://hoatle.github.io/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite/"/>
     <updated>2013-08-07T00:00:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite</id>
+    <id>http://hoatle.github.io/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite</id>
     <content type="html"><![CDATA[<p>Recently, we have a problem of top secret resources sharing that we need to resolve. Let me start
 by a story.</p>
 
@@ -567,9 +567,9 @@ most secured, but it&rsquo;s secured enough for us.</p>
   
   <entry>
     <title type="html"><![CDATA[A separated Django application with unit tests, coding convention checking and coverage report]]></title>
-    <link href="http://blog.teracy.com/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report/"/>
+    <link href="http://hoatle.github.io/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report/"/>
     <updated>2013-08-06T10:48:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report</id>
+    <id>http://hoatle.github.io/2013/08/06/a-separated-django-application-with-unit-tests-coding-convention-checking-and-coverage-report</id>
     <content type="html"><![CDATA[<p>Today we&rsquo;re going to share with you how to create a separated Django application with the following
 requirements:</p>
 
@@ -650,9 +650,9 @@ making pull requests.</p>
   
   <entry>
     <title type="html"><![CDATA[How to add Facebook like-box to octopress]]></title>
-    <link href="http://blog.teracy.com/2013/08/05/how-to-add-facebook-like-box-to-octopress/"/>
+    <link href="http://hoatle.github.io/2013/08/05/how-to-add-facebook-like-box-to-octopress/"/>
     <updated>2013-08-05T02:48:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/05/how-to-add-facebook-like-box-to-octopress</id>
+    <id>http://hoatle.github.io/2013/08/05/how-to-add-facebook-like-box-to-octopress</id>
     <content type="html"><![CDATA[<p>We&rsquo;ve just added the Facebook like-box to the default asides as you could see it on the right
 sidebar and we want to share the way to do the same for your <code>octopress</code> blog.</p>
 
@@ -701,9 +701,9 @@ pull request, your contributions are all welcome.</p>
   
   <entry>
     <title type="html"><![CDATA[How to start blogging easily with octopress and teracy-dev]]></title>
-    <link href="http://blog.teracy.com/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev/"/>
+    <link href="http://hoatle.github.io/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev/"/>
     <updated>2013-08-03T10:43:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev</id>
+    <id>http://hoatle.github.io/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev</id>
     <content type="html"><![CDATA[<p>This post will guide you to start blogging with <a href="https://github.com/teracy-official/teracy-dev" title="teracy-dev">teracy-dev</a> and <a href="http://octopress.org" title="octopress">octopress</a> like we did with
 our blog at <a href="https://github.com/teracy-official/teracy-official-blog">https://github.com/teracy-official/teracy-official-blog</a> with these outstanding
 advantages:</p>
@@ -929,9 +929,9 @@ fixing.</p></li>
   
   <entry>
     <title type="html"><![CDATA[Teracy: "Hello World!"]]></title>
-    <link href="http://blog.teracy.com/2013/08/02/teracy-hello-world/"/>
+    <link href="http://hoatle.github.io/2013/08/02/teracy-hello-world/"/>
     <updated>2013-08-02T18:07:00+00:00</updated>
-    <id>http://blog.teracy.com/2013/08/02/teracy-hello-world</id>
+    <id>http://hoatle.github.io/2013/08/02/teracy-hello-world</id>
     <content type="html"><![CDATA[<p>Hi, this is our official blog and this is the first post to say &ldquo;hello&rdquo; to the world.</p>
 
 <p>We have a clear mission for this blog: <em>share any experience during our development path that we
