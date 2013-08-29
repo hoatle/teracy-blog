@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: git-encrypt | Teracy's Blog]]></title>
-  <link href="http://hoatle.github.io/tags/git-encrypt/atom.xml" rel="self"/>
-  <link href="http://hoatle.github.io/"/>
-  <updated>2013-08-29T20:51:36+00:00</updated>
-  <id>http://hoatle.github.io/</id>
+  <link href="http://hoatle.github.io/teracy-blog/tags/git-encrypt/atom.xml" rel="self"/>
+  <link href="http://hoatle.github.io/teracy-blog/"/>
+  <updated>2013-08-29T20:59:09+00:00</updated>
+  <id>http://hoatle.github.io/teracy-blog/</id>
   <author>
     <name><![CDATA[Teracy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Keep, share and manage top secret resources with git-encrypt and gitolite]]></title>
-    <link href="http://hoatle.github.io/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite/"/>
+    <link href="http://hoatle.github.io/teracy-blog/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite/"/>
     <updated>2013-08-07T00:00:00+00:00</updated>
-    <id>http://hoatle.github.io/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite</id>
+    <id>http://hoatle.github.io/teracy-blog/2013/08/07/keep-manage-share-top-secret-resources-with-git-encrypt-and-gitolite</id>
     <content type="html"><![CDATA[<p>Recently, we have a problem of top secret resources sharing that we need to resolve. Let me start
 by a story.</p>
 

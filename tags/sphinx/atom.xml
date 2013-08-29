@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: sphinx | Teracy's Blog]]></title>
-  <link href="http://hoatle.github.io/tags/sphinx/atom.xml" rel="self"/>
-  <link href="http://hoatle.github.io/"/>
-  <updated>2013-08-29T20:51:36+00:00</updated>
-  <id>http://hoatle.github.io/</id>
+  <link href="http://hoatle.github.io/teracy-blog/tags/sphinx/atom.xml" rel="self"/>
+  <link href="http://hoatle.github.io/teracy-blog/"/>
+  <updated>2013-08-29T20:59:09+00:00</updated>
+  <id>http://hoatle.github.io/teracy-blog/</id>
   <author>
     <name><![CDATA[Teracy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Automatic sphinx docs deployment with sphinx-deployment]]></title>
-    <link href="http://hoatle.github.io/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment/"/>
+    <link href="http://hoatle.github.io/teracy-blog/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment/"/>
     <updated>2013-08-09T03:13:00+00:00</updated>
-    <id>http://hoatle.github.io/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment</id>
+    <id>http://hoatle.github.io/teracy-blog/2013/08/09/automatic-sphinx-docs-deployment-with-sphinx-deployment</id>
     <content type="html"><![CDATA[<p>At Teracy, all our documentations are written the the help from <code>sphinx</code><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. It&rsquo;s easy to setup and
 manage. However, we could not find a <strong>deployment solution</strong> good enough for <code>sphinx</code> documentation
 project. What does &ldquo;good enough&rdquo; here means? It means:</p>

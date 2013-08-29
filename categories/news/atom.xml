@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: news | Teracy's Blog]]></title>
-  <link href="http://hoatle.github.io/categories/news/atom.xml" rel="self"/>
-  <link href="http://hoatle.github.io/"/>
-  <updated>2013-08-29T20:51:36+00:00</updated>
-  <id>http://hoatle.github.io/</id>
+  <link href="http://hoatle.github.io/teracy-blog/categories/news/atom.xml" rel="self"/>
+  <link href="http://hoatle.github.io/teracy-blog/"/>
+  <updated>2013-08-29T20:59:09+00:00</updated>
+  <id>http://hoatle.github.io/teracy-blog/</id>
   <author>
     <name><![CDATA[Teracy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[teracy-django-html5-boilerplate v0.1.0 release]]></title>
-    <link href="http://hoatle.github.io/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release/"/>
+    <link href="http://hoatle.github.io/teracy-blog/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release/"/>
     <updated>2013-08-20T15:44:00+00:00</updated>
-    <id>http://hoatle.github.io/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release</id>
+    <id>http://hoatle.github.io/teracy-blog/2013/08/20/teracy-django-html5-boilerplate-v0-1-0-release</id>
     <content type="html"><![CDATA[<p>After more than 3 months since the project was started, today we&rsquo;re very happy to announce
 <a href="https://github.com/teracy-official/django-html5-boilerplate">teracy-django-html5-boilerplate</a> v0.1.0 release.</p>
 
@@ -64,9 +64,9 @@ make pull requests!</p>
   
   <entry>
     <title type="html"><![CDATA[sphinx-deployment v0.1.0 release]]></title>
-    <link href="http://hoatle.github.io/2013/08/18/sphinx-deployment-v0-1-0-release/"/>
+    <link href="http://hoatle.github.io/teracy-blog/2013/08/18/sphinx-deployment-v0-1-0-release/"/>
     <updated>2013-08-18T17:53:00+00:00</updated>
-    <id>http://hoatle.github.io/2013/08/18/sphinx-deployment-v0-1-0-release</id>
+    <id>http://hoatle.github.io/teracy-blog/2013/08/18/sphinx-deployment-v0-1-0-release</id>
     <content type="html"><![CDATA[<p>10 days after the announcement of <code>sphinx-deployment</code><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> project, today we&rsquo;re very happy to
 announce v0.1.0 release.</p>
 
@@ -99,9 +99,9 @@ it now at <a href="https://github.com/teracy-official/sphinx-deployment">https:/
   
   <entry>
     <title type="html"><![CDATA[Introduce development management tools]]></title>
-    <link href="http://hoatle.github.io/2013/08/17/introduce-development-management-tools/"/>
+    <link href="http://hoatle.github.io/teracy-blog/2013/08/17/introduce-development-management-tools/"/>
     <updated>2013-08-17T04:21:00+00:00</updated>
-    <id>http://hoatle.github.io/2013/08/17/introduce-development-management-tools</id>
+    <id>http://hoatle.github.io/teracy-blog/2013/08/17/introduce-development-management-tools</id>
     <content type="html"><![CDATA[<p>At Teracy, development tools and development management are very important for us to keep and work
 in a consistent workflow manner. There are rules, however, the rules should be guided, checked
 and forced so that everyone could understand and work together more effectively. After a few days of
@@ -178,9 +178,9 @@ steps ahead to setup a good development environment.</p>
   
   <entry>
     <title type="html"><![CDATA[Teracy: "Hello World!"]]></title>
-    <link href="http://hoatle.github.io/2013/08/02/teracy-hello-world/"/>
+    <link href="http://hoatle.github.io/teracy-blog/2013/08/02/teracy-hello-world/"/>
     <updated>2013-08-02T18:07:00+00:00</updated>
-    <id>http://hoatle.github.io/2013/08/02/teracy-hello-world</id>
+    <id>http://hoatle.github.io/teracy-blog/2013/08/02/teracy-hello-world</id>
     <content type="html"><![CDATA[<p>Hi, this is our official blog and this is the first post to say &ldquo;hello&rdquo; to the world.</p>
 
 <p>We have a clear mission for this blog: <em>share any experience during our development path that we

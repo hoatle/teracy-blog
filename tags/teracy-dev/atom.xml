@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tag: teracy-dev | Teracy's Blog]]></title>
-  <link href="http://hoatle.github.io/tags/teracy-dev/atom.xml" rel="self"/>
-  <link href="http://hoatle.github.io/"/>
-  <updated>2013-08-29T20:51:36+00:00</updated>
-  <id>http://hoatle.github.io/</id>
+  <link href="http://hoatle.github.io/teracy-blog/tags/teracy-dev/atom.xml" rel="self"/>
+  <link href="http://hoatle.github.io/teracy-blog/"/>
+  <updated>2013-08-29T20:59:09+00:00</updated>
+  <id>http://hoatle.github.io/teracy-blog/</id>
   <author>
     <name><![CDATA[Teracy]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to start blogging easily with octopress and teracy-dev]]></title>
-    <link href="http://hoatle.github.io/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev/"/>
+    <link href="http://hoatle.github.io/teracy-blog/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev/"/>
     <updated>2013-08-03T10:43:00+00:00</updated>
-    <id>http://hoatle.github.io/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev</id>
+    <id>http://hoatle.github.io/teracy-blog/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev</id>
     <content type="html"><![CDATA[<p>This post will guide you to start blogging with <a href="https://github.com/teracy-official/teracy-dev" title="teracy-dev">teracy-dev</a> and <a href="http://octopress.org" title="octopress">octopress</a> like we did with
 our blog at <a href="https://github.com/teracy-official/teracy-official-blog">https://github.com/teracy-official/teracy-official-blog</a> with these outstanding
 advantages:</p>
