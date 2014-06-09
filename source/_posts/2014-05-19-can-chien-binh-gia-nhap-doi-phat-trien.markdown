@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Cần chiến binh gia nhập đội phát triển
-author: hoatle
-editor: ngocnguyen
+author:hoatle
+editor:ngocnguyen
 date: 2014-05-19 15:46
 comments: true
 categories:
